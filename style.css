@@ -1,8 +1,8 @@
 body {
-  <!-- background-image: url("images/chip8macrosEMchallenge1.png");
+  background-image: url("images/chip8macrosEMchallenge1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  margin: 0; -->
-  background-color: red;
+  height: 100vh;
+  margin: 0;
 }
